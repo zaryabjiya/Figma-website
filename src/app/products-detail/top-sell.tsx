@@ -2,7 +2,7 @@ import { IoIosStar } from "react-icons/io";
 import Image from "next/image";
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
-import { BreadcrumbDemo } from "@/components/breadcrumbs";
+// import { BreadcrumbDemo } from "@/components/breadcrumbs";
 
 interface Items{
     title:string,

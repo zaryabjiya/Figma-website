@@ -1,6 +1,6 @@
 
 import Image from "next/image"
-import { motion } from "framer-motion"
+// import { motion } from "framer-motion"
 
 
 export default function Hero () {
@@ -31,9 +31,9 @@ export default function Hero () {
         <div className="relative">
             <Image src={"/header-profile.png"} className="w-[500px] h-[600px] mr-5" width={200} height={200} alt="profile"></Image>
 
-            <Image src={"/Vector (2).png"} className="w-[50px] md:w-[100px] top-[150px] ml-7 sm-6 absolute md:top-[300px] md:left-[-100px] " width={200} height={200} alt="star"></Image>
+            <Image src={"/Vector2.png"} className="w-[50px] md:w-[100px] top-[150px] ml-7 sm-6 absolute md:top-[300px] md:left-[-100px] " width={200} height={200} alt="star"></Image>
 
-            <Image src={"/vector.png"} className=" w-[70px] mr-8 md:w-[100px] top-12 right-3 absolute md:top-[50px] md:right-[20px] " width={200} height={200} alt="star"></Image>
+            <Image src={"/Vector.png"} className=" w-[70px] mr-8 md:w-[100px] top-12 right-3 absolute md:top-[50px] md:right-[20px] " width={200} height={200} alt="star"></Image>
         </div>
     </main>
   )
