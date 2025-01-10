@@ -1,5 +1,5 @@
-import { IoIosStar } from "react-icons/io";
-import Image from "next/image";
+import { IoIosStar } from "react-icons/io"; 
+import Image from "next/image"
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 

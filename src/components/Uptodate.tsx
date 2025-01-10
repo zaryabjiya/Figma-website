@@ -7,13 +7,6 @@ export default function Uptodate(){
             <div className="w-full lg:w-[400px] ">
             <h1 className="text-xl text-white md:text-3xl font-serif font-extrabold">STAY UPTO DATE ABOUT OUR LATEST OFFERS</h1>
 
-
-
-        {/* // <main className="w-full flex justify-center items-center mb-14  t-32   mt-8 max-w-screen-2xl radius-[20px] mx-auto  ">
-        //     <div className="w-[90%] md:w-full h-[180px] sm:h-[150px] rounded-[16px] p-32  bg-black flex flex-col md:flex-row justify-between items-center ">
-        //         <div className="w-full lg:w-[200px] space-between ">
-        //         <h1 className="text-2xl text-white md:text-3xl font-serif font-extrabold ">STAY UPTO DATE ABOUT OUR LATEST OFFERS</h1> */}
-
                 </div>
                 <div className="space-y-4 mt-2">
                 <div className="  flex justify-start items-center bg-[#F0F0F0] md:w-[300px] h-[35px] pl-2 md:ml-0 hover:border-none rounded-full"> 
@@ -26,4 +19,4 @@ export default function Uptodate(){
     )
 }
 
-// ml-10 mr-10 md:mt-13 t-32   mt-8 
+
